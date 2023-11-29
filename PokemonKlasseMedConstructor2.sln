@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonKlasseMedConstructor2", "PokemonKlasseMedConstructor2.csproj", "{28962D97-B307-4F98-A33B-4F3313E69D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28962D97-B307-4F98-A33B-4F3313E69D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28962D97-B307-4F98-A33B-4F3313E69D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28962D97-B307-4F98-A33B-4F3313E69D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28962D97-B307-4F98-A33B-4F3313E69D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D3E77CA-AE04-4EC2-B1D6-8D3E7E012D2D}
+	EndGlobalSection
+EndGlobal
